@@ -7,7 +7,7 @@
     {
       "id": 1,
       "nama": "Minuman",
-    },
+    }
   ],
   "Products" [
     {
@@ -21,11 +21,9 @@
         "id" : 1,
         "nama" : "Makanan"
       }
-    }
-   ],
-   "Minuman" [
+    },
     {
-      "id": 1,
+      "id": 2,
       "kode": "M-01",
       "nama": "Teh Gelas",
       "harga": 5000,
