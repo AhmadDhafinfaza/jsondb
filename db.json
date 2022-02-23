@@ -1,5 +1,5 @@
 {
-  "Categories" [
+  "Categories" : [
     {
       "id": 1,
       "nama": "Makanan",
@@ -9,7 +9,7 @@
       "nama": "Minuman",
     }
   ],
-  "Products" [
+  "Products" : [
     {
       "id": 1,
       "kode": "K-01",
