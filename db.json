@@ -1,1 +1,40 @@
-
+{
+  "Categories" [
+    {
+      "id": 1,
+      "nama": "makanan",
+    },
+    {
+      "id": 1,
+      "nama": "Minuman",
+    },
+  ],
+  "Products" [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": "20000",
+      "is_ready": true,
+      "gambar": "SateAyamJago.jpg",
+      "categori": {
+        "id" : 1,
+        "nama" : "makanan"
+      },
+    },
+   ],
+   "Minuman" [
+    {
+      "id": 1,
+      "kode": "M-01",
+      "nama": "Teh Gelas",
+      "harga": "5000",
+      "is_ready": true,
+      "gambar": "TehGelas.jpg",
+      "categori": {
+        "id" : 1,
+        "nama" : "minuman"
+      },
+    },
+   ],
+}
