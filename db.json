@@ -14,7 +14,7 @@
       "id": 1,
       "kode": "K-01",
       "nama": "Sate Ayam",
-      "harga": "20000",
+      "harga": 20000,
       "is_ready": true,
       "gambar": "SateAyamJago.jpg",
       "categori": {
@@ -28,7 +28,7 @@
       "id": 1,
       "kode": "M-01",
       "nama": "Teh Gelas",
-      "harga": "5000",
+      "harga": 5000,
       "is_ready": true,
       "gambar": "TehGelas.jpg",
       "categori": {
