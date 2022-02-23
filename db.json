@@ -2,11 +2,11 @@
   "Categories" : [
     {
       "id": 1,
-      "nama": "Makanan",
+      "nama": "Makanan"
     },
     {
       "id": 1,
-      "nama": "Minuman",
+      "nama": "Minuman"
     }
   ],
   "Products" : [
